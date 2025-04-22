@@ -1,4 +1,5 @@
 This Python-based NLP News Summarizer using Tkinter for the GUI and NLTK, Newspaper3k, and TextBlob for natural language processing. It allows users to enter a news article URL, fetches the content, and provides the following:
+
  • Title of the article
  
  • Author(s)
